@@ -5,8 +5,11 @@ const PORT = 8000;
 const questionRoutes = require('./routes/QuestionsRoutes');
 const joueurRoutes = require("./routes/JoueurRoutes");
 
+let corsOptions = {
+    origin : ['http://localhost:5173'],
+}
 
-app.use(cors())
+app.use(cors(corsOptions))
 
 app.use(express.json())
 
