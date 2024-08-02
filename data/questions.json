@@ -1,7 +1,102 @@
 [
   {
     "id" : 1,
-    "question" : "Bonjour",
-    "reponse" : "non"
+    "question" : "Quelle est la capitale de la France ?",
+    "reponse" : "paris"
+  },
+  {
+    "id" : 2,
+    "question" : "En quelle année a pris fin la première guerre mondiale ?",
+    "reponse" : "1918"
+  },
+  {
+    "id" : 3,
+    "question" : "En quelle année la France a été championne du monde de foot avec Zinédine Zidane ?",
+    "reponse" : "1998"
+  },
+  {
+    "id" : 4,
+    "question" : "2 + 3 ?",
+    "reponse" : "5"
+  },
+  {
+    "id" : 5,
+    "question" : "Quelle couleur obtient-on en mélangeant du jaune et du bleu ?",
+    "reponse" : "vert"
+  },
+  {
+    "id" : 6,
+    "question" : "Comment s'appelle le propriétaire de X, space X et Tesla ?",
+    "reponse" : "elon musk"
+  },
+  {
+    "id" : 7,
+    "question" : "Quelle administration a envoyé des hommes sur la lune ?",
+    "reponse" : "nasa"
+  },
+  {
+    "id" : 8,
+    "question" : "Quel est le sigle de l'agence spatiale européenne ?",
+    "reponse" : "esa"
+  },
+  {
+    "id" : 9,
+    "question" : "Comment s'appelle le deuxième homme qui a marché sur la lune ? (nom et prénom)",
+    "reponse" : "buzz aldrin"
+  },
+  {
+    "id" : 10,
+    "question" : "Quel est le nom de l'homme qui est resté en orbite autour de la lune pendant apollo 11 ? (juste le nom)",
+    "reponse" : "collins"
+  },
+  {
+    "id" : 11,
+    "question" : "Quelle est la racine carrée de 169 ?",
+    "reponse" : "13"
+  },
+  {
+    "id" : 12,
+    "question" : "Avec quel pays la France partage sa plus grande frontière ?",
+    "reponse" : "brésil"
+  },
+  {
+    "id" : 13,
+    "question" : "Quelle est la théorie associée à Einstein ?",
+    "reponse" : "relativité"
+  },
+  {
+    "id" : 14,
+    "question" : "Quelle invention est attribuée à Benjamin Franklin ?",
+    "reponse" : "paratonnerre"
+  },
+  {
+    "id" : 15,
+    "question" : "En géométrie euclidienne, quelle est la somme des angles d'un triangle ?",
+    "reponse" : "180"
+  },
+  {
+    "id" : 16,
+    "question" : "A quel artiste doit-on la célèbre peinture “Le Déjeuner sur l’herbe” ? ",
+    "reponse" : "edouard manet"
+  },
+  {
+    "id" : 17,
+    "question" : "Sous quel nom est aussi connue Marie Sklodowska ?",
+    "reponse" : "marie curie"
+  },
+  {
+    "id" : 18,
+    "question" : "En quelle année à commencé la construction de la tour eiffel ?",
+    "reponse" : "1887"
+  },
+  {
+    "id" : 19,
+    "question" : "Comment s'appelle le vainqueur du Senior TT 2023 ? (Course principale du Tourist Trophy)",
+    "reponse" : "davey todd"
+  },
+  {
+    "id" : 20,
+    "question" : "Comment s'appelle le pilote qui a gagné le championnat d'europ de cours sur route (IRRC) en catégorie superbike en 2023 ?",
+    "reponse" : "lukas maurer"
   }
 ]
