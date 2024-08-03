@@ -17,7 +17,12 @@ Le projet tourne sur le port 8000.
 Les routes sont ici : 
 
 ````text
-
+get : localhost:8000/api/joueurs
+get : localhost:8000/api/joueurs/:id
+post : localhost:8000/api/joueur/ajout-joueur
+put : localhost:8000/api/joueur/update/:id
+get : localhost:8000/api/questions
+get : localhost:8000/api/questions/:id
 ````
 J'ai utilisé express, basé sur NodeJS, qui permet d'utiliser javascript sur serveur. De plus, il embarque plusieurs fonctionnalités qui rendent le développement plus simple.
 Je l'ai choisi aussi car il est plutôt rapide à mettre en place, et étant donné que je ne travaille que sur un fichier json stocké sur serveur,
